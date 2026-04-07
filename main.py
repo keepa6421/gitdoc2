@@ -1,6 +1,4 @@
-print(909099)
-print(909099)
-print(909099)
-print(909099)
-print(909099)
-print(909099)
+#hello
+print("hello")
+print("legal age")
+print("noot a legal age")
